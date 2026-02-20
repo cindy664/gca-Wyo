@@ -1,4 +1,114 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "University of Wyoming",
+    "abbreviation": "UWyo",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": "#FFC426",
+    "primaryBrandColor": "#492F24",
+    "buttonColor": "#FFC426",
+    "buttonTextColor": "#492F24",
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/uwyo.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/uwyo.png",
+    "partner_id": "0014T00000cMhdCQAS",
+    "programName": "UW Global Career Accelerator",
+    "termsandConditionsPolicy": "https://www.uwyo.edu/uw/disclaimer/",
+    "registrationMessage": "Registration is now open.",
+    "credits": "4 UW credits",
+    "startDate": "May 26",
+    "endDate": "July 17"
+  },
+  {
+    "item": "about",
+    "schoolname": "University of Wyoming",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": "1000 E. University Ave. \r\nLaramie, WY 82071",
+    "abbreviation": "UWyo",
+    "phone": "(307) 364-3024",
+    "credits": "4 UW credits",
+    "programFee": "+ 1,600",
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "4 UW credits",
+    "abbreviation": "UWyo",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "University of Wyoming",
+    "trackTitle": "Digital Marketing Track",
+    "credits": "4 UW credits",
+    "abbreviation": "UWyo",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "COMP 4000 (Summer • CRN: 28806)",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 26",
+    "endDate": "July 17"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "University of Wyoming",
+    "trackTitle": "Web Development for Everyone Track",
+    "credits": "4 UW credits",
+    "abbreviation": "UWyo",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "COMP 4000 (Summer • CRN: 28806)",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 26",
+    "endDate": "July 17"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "University of Wyoming",
+    "trackTitle": "Data Analytics Track",
+    "credits": "4 UW credits",
+    "abbreviation": "UWyo",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "COMP 4000 (Summer • CRN: 28806)",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 26",
+    "endDate": "July 17"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "University of Wyoming",
+    "trackTitle": "Coding for Data Track",
+    "credits": "4 UW credits",
+    "abbreviation": "UWyo",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "COMP 4000 (Summer • CRN: 28806)",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 26",
+    "endDate": "July 17"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "University of Wyoming",
+    "trackTitle": "Career Rotation Track",
+    "credits": "4 UW credits",
+    "abbreviation": "UWyo",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "COMP 4000 (Summer • CRN: 28806)",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 26",
+    "endDate": "July 17"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "UW Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(307) 364-3024",
+    "abbreviation": "UW"
+  },
+  {
+    "item": "begin",
+    "credits": "4 UW credits",
+    "abbreviation": "UWyo",
+    "phone": "(307) 364-3024"
+  }
+]
