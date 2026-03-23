@@ -14,7 +14,7 @@
     "programName": "UW Global Career Accelerator",
     "termsandConditionsPolicy": "https://www.uwyo.edu/uw/disclaimer/",
     "registrationMessage": "Registration is now open.",
-    "credits": "4 UW credits",
+    "credits": "4 UWyo credits",
     "startDate": "May 26",
     "endDate": "July 17"
   },
@@ -25,7 +25,7 @@
     "schoolFullAddress": "1000 E. University Ave. \r\nLaramie, WY 82071",
     "abbreviation": "UWyo",
     "phone": "(307) 364-3024",
-    "credits": "4 UW credits",
+    "credits": "4 UWyo credits",
     "programFee": "+ 1,600",
     "seasonYear": "Summer 2026",
     "term": "Summer",
@@ -34,7 +34,7 @@
   },
   {
     "item": "explore-tracks",
-    "credits": "4 UW credits",
+    "credits": "4 UWyo credits",
     "abbreviation": "UWyo",
     "registrationMessage": "Registration is now open."
   },
@@ -42,72 +42,87 @@
     "item": "digital-marketing",
     "schoolname": "University of Wyoming",
     "trackTitle": "Digital Marketing Track",
-    "credits": "4 UW credits",
+    "credits": "4 UWyo credits",
     "abbreviation": "UWyo",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "COMP 4000 (Summer • CRN: 28806)",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 26",
-    "endDate": "July 17"
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 26",
+    "term1EndDate": "July 17",
+    "term2StartDate": "August 31",
+    "term2EndDate": "December 11"
   },
   {
     "item": "coding-for-web",
     "schoolname": "University of Wyoming",
     "trackTitle": "Web Development for Everyone Track",
-    "credits": "4 UW credits",
+    "credits": "4 UWyo credits",
     "abbreviation": "UWyo",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "COMP 4000 (Summer • CRN: 28806)",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 26",
-    "endDate": "July 17"
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 26",
+    "term1EndDate": "July 17",
+    "term2StartDate": "August 31",
+    "term2EndDate": "December 11"
   },
   {
     "item": "data-analytics",
     "schoolname": "University of Wyoming",
     "trackTitle": "Data Analytics Track",
-    "credits": "4 UW credits",
+    "credits": "4 UWyo credits",
     "abbreviation": "UWyo",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "COMP 4000 (Summer • CRN: 28806)",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 26",
-    "endDate": "July 17"
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 26",
+    "term1EndDate": "July 17",
+    "term2StartDate": "August 31",
+    "term2EndDate": "December 11"
   },
   {
     "item": "coding-for-data",
     "schoolname": "University of Wyoming",
     "trackTitle": "Coding for Data Track",
-    "credits": "4 UW credits",
+    "credits": "4 UWyo credits",
     "abbreviation": "UWyo",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "COMP 4000 (Summer • CRN: 28806)",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 26",
-    "endDate": "July 17"
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 26",
+    "term1EndDate": "July 17",
+    "term2StartDate": "August 31",
+    "term2EndDate": "December 11"
   },
   {
     "item": "career-rotation",
     "schoolname": "University of Wyoming",
     "trackTitle": "Career Rotation Track",
-    "credits": "4 UW credits",
+    "credits": "4 UWyo credits",
     "abbreviation": "UWyo",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "COMP 4000 (Summer • CRN: 28806)",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 26",
-    "endDate": "July 17"
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 26",
+    "term1EndDate": "July 17",
+    "term2StartDate": "August 31",
+    "term2EndDate": "December 11"
   },
   {
     "item": "reserve-a-seat",
     "programName": "UW Global Career Accelerator",
     "registrationMessage": "Registration is now open.",
     "phone": "(307) 364-3024",
-    "abbreviation": "UW"
+    "abbreviation": "UWyo"
   },
   {
     "item": "begin",
-    "credits": "4 UW credits",
+    "credits": "4 UWyo credits",
     "abbreviation": "UWyo",
     "phone": "(307) 364-3024"
   }
